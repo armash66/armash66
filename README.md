@@ -1,8 +1,14 @@
-### About
+# Hi, I'm Armash 👋
 
-Hi, I’m Armash.
-Engineering Student.
-I like building things from scratch and understanding how systems work.
+I enjoy building small programs and experimenting with code to understand how things work.  
+I like exploring new ideas, learning new languages, and solving small problems one step at a time.
 
-I enjoy backend logic, tools, and small projects where I can control things end to end.
-Always learning, experimenting, and sharpening my fundamentals.
+---
+
+## 🛠 Tech I Use
+Java • Rust • Go • JavaScript
+
+---
+
+## 🎯 My Goal
+Keep learning, building, and improving every day while having fun with code.
